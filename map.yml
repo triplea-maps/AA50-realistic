@@ -1,0 +1,5 @@
+map_name: AA50-realistic
+games:
+- game_name: AA50-realistic
+  file_name: AA50-realistic.xml
+version: 0
